@@ -20,3 +20,5 @@ Blog application:
 
 - email: `hbtn@hbtn.io`
 - password: `toto1234`
+
+Happy hacking by ing
